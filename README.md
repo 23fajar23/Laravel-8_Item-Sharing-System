@@ -17,12 +17,12 @@ That's a brief overview of this project, hopefully it helps you
     <tr align="center">
         <td>
              <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/workspaces/Item-Sharing-System/ImgShow/0.jpeg">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/0.jpeg">
             </br>
         </td>
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/workspaces/Item-Sharing-System/ImgShow/1.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/1.png">
             </br>
         </td>
     </tr>
@@ -32,12 +32,12 @@ That's a brief overview of this project, hopefully it helps you
     <tr align="center">
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/workspaces/Item-Sharing-System/ImgShow/2.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/2.png">
             </br>
         </td>
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="/workspaces/Item-Sharing-System/ImgShow/3.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/3.png">
             </br>
         </td>
     </tr>
