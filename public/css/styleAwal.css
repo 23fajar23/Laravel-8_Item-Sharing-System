@@ -1,0 +1,379 @@
+/*Begin Footer & Header Style*/
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    background: #6e7a7e;
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #e6e2e2;
+    border-radius: 10px;
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #cec5c5;
+}
+
+.head {
+    background-color: #848688;
+    padding-top: 7px;
+    width: auto;
+}
+
+body {
+    font-family: calibri, verdana, sans-serif;
+    line-height: 1.5em;
+}
+
+.slide {
+    padding: 30px 0 45px 0;
+    background-color: #D2D2D5;
+}
+
+.bg {
+    background-color: #4B4B4D;
+}
+
+.box {
+    width: 400px;
+    height: 250px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #D2D2D5;
+    box-shadow: violet;
+}
+
+.box2 {
+    width: 450px;
+    height: 250px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #D2D2D5;
+    box-shadow: violet;
+}
+
+.hr {
+    width: 40%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.btnblack {
+    color: black;
+    font-weight: bold;
+}
+
+.comment {
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.comment li {
+    display: inline-block;
+    margin-left: -40px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    /*padding: 20px;*/
+    /*width: 5%;*/
+}
+
+.photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 150px;
+    object-fit: cover;
+}
+
+.what {
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    font-family: algerian;
+    padding-top: 5%;
+}
+
+.brad {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.bannerText {
+    text-shadow: 2px 2px 2px black;
+    filter: drop-shadow(0 0 0.80rem black);
+}
+
+.baru {
+    margin: 10px;
+    margin-right: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.baru li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-shadow: 2px 2px #2D3436;
+}
+
+.baru2 {
+    margin-right: 40px;
+    font-weight: bold;
+    text-shadow: 2px 2px #2D3436;
+    color: whitesmoke;
+}
+
+.baru2 li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media(max-width: 700px) {
+    .baru {
+        text-align: center;
+    }
+    .baru2 {
+        text-align: center;
+    }
+}
+
+@media(min-width: 701px) {
+    .baru {
+        text-align: right;
+        margin-top: -40px;
+    }
+    .head {
+        height: 55px;
+    }
+}
+
+.bersih {
+    color: white;
+}
+
+.bersih a {
+    text-decoration: none;
+    color: white;
+}
+
+.bersih:hover,
+.bersih:visited,
+.bersih:link,
+.bersih:active {
+    color: white;
+}
+
+
+/*End Footer & Header Style*/
+
+
+/*Begin Content Index Style*/
+
+.bg {
+    /* background: #848688; */
+    background: linear-gradient(to top right, #636E72, #2D3436, rgb(149, 165, 166));
+}
+
+.img1 {
+    width: 60%;
+    align-items: center;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px 7px 7px 7px;
+    transform: rotate(-1deg);
+    box-shadow: 5px 5px 5px 5px;
+}
+
+.img2 {
+    width: 60%;
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px 7px 7px 7px;
+    transform: rotate(1deg);
+    box-shadow: 3px 3px 3px 3px;
+    color: white;
+}
+
+.gly-size {
+    font-size: 15px;
+    vertical-align: center;
+    background-color: green;
+    padding: 8px 8px 8px 8px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.foot {
+    background-color: #a0a4a8;
+    height: 50px;
+    text-align: center;
+    font-size: medium;
+    padding-top: 13px;
+    font-weight: bold;
+    color: rgb(63, 62, 62);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto auto;
+}
+
+.image-food {
+    grid-area: image-food;
+}
+
+.text-food {
+    grid-area: text-food;
+}
+
+.image-drink {
+    grid-area: image-drink;
+}
+
+.text-drink {
+    grid-area: text-drink;
+}
+
+.image-checkin {
+    grid-area: image-checkin;
+}
+
+.text-checkin {
+    grid-area: text-checkin;
+}
+
+.image-order {
+    grid-area: image-order;
+}
+
+.text-order {
+    grid-area: text-order;
+}
+
+.text {
+    color: white;
+    font-family: calibri;
+    font-size: 17px;
+    padding-bottom: 75px;
+    padding-top: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.button {
+    padding-top: 20px;
+}
+
+.box1 {
+    color: white;
+    padding: 10px;
+    /*background-color: blue;*/
+    background: linear-gradient(to bottom right, #FF00FF, #00FFFF);
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.box:hover {
+    text-decoration: none;
+    /*background: green;*/
+    /*color: black;*/
+}
+
+.line {
+    width: 20%;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.lineLast {
+    width: 50%;
+}
+
+@media(max-width: 700px) {
+    .grid {
+        grid-template-areas: "image-order" "text-order" "image-food" "text-food" "image-drink" "text-drink" "image-checkin" "text-checkin"
+    }
+}
+
+@media(min-width: 701px) {
+    .grid {
+        grid-template-areas: "text-order image-order" "image-food text-food" "text-drink image-drink" "image-checkin text-checkin"
+    }
+    .img1 {
+        margin-bottom: 50px;
+    }
+    .img2 {
+        margin-bottom: 50px;
+    }
+    .text {
+        padding-right: 30%;
+        padding-left: 21%;
+    }
+}
+
+
+/*End Content Index Style*/
+
+
+/* effect Scanfcode */
+
+.scanfcode1 {
+    background-color: #2441c4;
+    border: 0px;
+    color: #fff;
+    font-family: 'BenchNine', Arial, sans-serif;
+    position: relative;
+}
+
+.scanfcode1:before,
+.scanfcode1:after {
+    border-color: #fff;
+    -webkit-transition: all 0.25s;
+    transition: all 0.25s;
+    border-style: solid;
+    border-width: 0;
+    content: "";
+    height: 24px;
+    position: absolute;
+    width: 24px;
+}
+
+.scanfcode1:before {
+    border-left-width: 2px;
+    border-top-width: 2px;
+    left: -5px;
+    top: -5px;
+}
+
+.scanfcode1:after {
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    bottom: -5px;
+    right: -5px;
+}
+
+.scanfcode1:hover:before,
+.scanfcode1:hover:after {
+    height: 100%;
+    width: 100%;
+}
+
+.shad {
+    box-shadow: 0 0.7em 0.7em -0.4em var(--hover);
+    transform: translateY(-0.10em);
+    --color: #8b7768;
+    --hover: #fff;
+}
