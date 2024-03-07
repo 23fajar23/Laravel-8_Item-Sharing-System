@@ -17,12 +17,12 @@ That's a brief overview of this project, hopefully it helps you
     <tr align="center">
         <td>
              <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/0.jpeg">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/0.jpeg" style="border-radius:10px">
             </br>
         </td>
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/1.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/1.png" style="border-radius:10px">
             </br>
         </td>
     </tr>
@@ -32,23 +32,31 @@ That's a brief overview of this project, hopefully it helps you
     <tr align="center">
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/2.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/2.png" style="border-radius:10px">
             </br>
         </td>
         <td>
             <br>
-                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/3.png">
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/3.png" style="border-radius:10px">
             </br>
         </td>
     </tr>
-
+    <tr>
+        <td align="center" colspan=2>~~ Real-Time messaging Preview ~~</td>
+    </tr>
+    <tr align="center">
+        <td>
+            <br>
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/5.png" style="border-radius:10px">
+            </br>
+        </td>
+        <td>
+            <br>
+                <img width="90%" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/23fajar23/Item-Sharing-System/blob/main/ImgShow/6.png" style="border-radius:10px">
+            </br>
+        </td>
+    </tr>
 </table>
 
-
-<!-- 
-<tr>
-        <td></td>
-        <td></td>
-    </tr> -->
 
 
