@@ -13,8 +13,8 @@ Step after your clone this project :
 - then run command "composer install"
 - run command "php artisan key:generate"
 - run command "php artisan storage:link"
-- and then "php artisan migrate"
-- final step you can run comman "php artisan serve" for run this project.
+- and then run command "php artisan migrate"
+- final step you can run command "php artisan serve" for run this project.
 
 Note :
 -
