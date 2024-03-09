@@ -84,8 +84,8 @@ Those are some previews of what this project is like, hopefully this project can
 See you next time.. ✌✌
 
 <br>
-#HTML<br>
-#PHP</br>
-#Laravel8<br>
-#Javascript</br>
+#HTML 
+#PHP
+#Laravel8 
+#Javascript 
 #SimpleProject
