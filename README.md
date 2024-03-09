@@ -7,7 +7,7 @@ Here I want to share my project that I have worked on with you, I created the th
 
 This project uses the Laravel framework version 8, do you know what Laravel is? Laravel is a framework that can make it easier for you when creating a project because it is structured. Laravel uses the PHP programming language as its base so it is easy to understand.
 
-Step after your clone this project :
+Steps after your clone this project :
 -
 - Go into directory "Project"
 - copy file .env.example and rename to .env
